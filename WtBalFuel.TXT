@@ -1,0 +1,3 @@
+The cab file for your application has been built as 'C:\PI Docs\Weight & Balance\Package\WtBalFuel.CAB'.
+
+There is also a batch file in the support directory (C:\PI Docs\Weight & Balance\Package\Support\WtBalFuel.BAT) that will allow you to recreate the cab file in case you make changes to some of the files.

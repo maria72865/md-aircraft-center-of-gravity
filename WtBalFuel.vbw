@@ -1,0 +1,14 @@
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modWBF = 0, 0, 0, 0, C
+frmBurnCalc = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmFuelCalc = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frm2 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmPrint6 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmPrint4 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmPrint5 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmPrint2 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frm208A = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frm208B = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmPrint3 = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmTS = 0, 0, 0, 0, C, 0, 0, 0, 0, C
